@@ -1,4 +1,4 @@
-# Luis Salazar
+# Luis A. Salazar
 
 **Salesforce Certified Application Architect.** I design enterprise Salesforce systems at Salesforce's Office of Accessibility, and I write about how uneven minds build better ones.
 
