@@ -1,6 +1,6 @@
 # Luis A. Salazar
 
-**Salesforce Certified Application Architect.** I design enterprise Salesforce systems at Salesforce's Office of Accessibility, and I write about how uneven minds build better ones.
+**Solution Architect at Salesforce.** I design enterprise Salesforce systems at Salesforce's Office of Accessibility, and I write about how uneven minds build better ones.
 
 Twelve Salesforce certifications, an MBA from MIT Sloan, and a background in biomedical engineering. Five years in technology consulting at Accenture, then over a decade running an independent practice, before joining Salesforce.
 
@@ -22,6 +22,6 @@ Application Architect (composite) · Data Architect · Sharing and Visibility Ar
 
 ### Elsewhere
 
-[luisalbertosalazar.com](https://www.luisalbertosalazar.com) · [LinkedIn](https://www.linkedin.com/in/lasm/) · [hello@luisalbertosalazar.com](mailto:hello@luisalbertosalazar.com)
+[luisalbertosalazar.com](https://www.luisalbertosalazar.com) · [LinkedIn](https://www.linkedin.com/in/lasm/) · [luis@thespikyprofile.com](mailto:luis@thespikyprofile.com)
 
 Based in El Paso, Texas.
